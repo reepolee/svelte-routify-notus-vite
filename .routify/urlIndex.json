@@ -1,0 +1,11 @@
+[
+  "/admin/dashboard",
+  "/admin/maps",
+  "/admin/settings",
+  "/admin/tables",
+  "/auth/login",
+  "/auth/register",
+  "/index",
+  "/landing",
+  "/profile"
+]
