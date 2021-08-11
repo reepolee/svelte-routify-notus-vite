@@ -2,6 +2,13 @@
 
 Styled with TailwindCSS Notus theme by Creative Tim. Svelte on Vite offers unprecedented developer experience. Routify is included for file based routing.
 
+```
+npx degit reepolee/svelte-routify-notus-vite#main myapp
+cd myapp
+npm install
+npm run dev
+```
+
 Credits to [azlkiniue](https://github.com/azlkiniue/routify-notus), this starter is just adapted for Vite from their work.
 
 [Svelte](https://svelte.dev/)
