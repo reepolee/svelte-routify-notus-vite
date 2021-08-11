@@ -1,5 +1,6 @@
 const plugin = require("tailwindcss/plugin");
 const colors = require("tailwindcss/colors");
+delete colors["lightBlue"]; // until v3 - https://github.com/tailwindlabs/tailwindcss/issues/4690#issuecomment-881266377
 
 const production = process.env.NODE_ENV === "production";
 
